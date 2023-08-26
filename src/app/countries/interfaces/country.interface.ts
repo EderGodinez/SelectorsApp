@@ -3,7 +3,7 @@ export enum Region{
   Africa='Africa',
   Asia='Asia',
   Americas='Americas',
-  Europa='Europa',
+  Europa='Europe',
   Oceania='Oceania',
 }
 export interface SmallCountry{
